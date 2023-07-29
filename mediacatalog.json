@@ -1,0 +1,184 @@
+{
+    "mediacatalog": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "title": {
+                        "S": "Oppenheimer"
+                    },
+                    "rating": {
+                        "S": "8.7"
+                    },
+                    "genre": {
+                        "S": "Drama"
+                    },
+                    "release date": {
+                        "S": "21-Jul-2023"
+                    }
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "Barbie"
+                },
+                "rating": {
+                    "S": "7.5"
+                },
+                "genre": {
+                    "S": "Fantasy"
+                },
+                "release date": {
+                    "S": "21-Jul-2023"
+                }
+            }
+         }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "Mission Impossible - Dead Reckoning Part One"
+                },
+                "rating": {
+                    "S": "8.0"
+                },
+                "genre": {
+                    "S": "Action"
+                },
+                "release date": {
+                    "S": "12-Jul-2023"
+                }
+        }
+    }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "Sound of Freedom"
+                },
+                "rating": {
+                    "S": "7.9"
+                },
+                "genre": {
+                    "S": "Action"
+                },
+                "release date": {
+                    "S": "04-Jul-2023"
+                }
+        }
+    }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "The Flash"
+                },
+                "rating": {
+                    "S": "6.9"
+                },
+                "genre": {
+                    "S": "Action"
+                },
+                "release date": {
+                    "S": "16-Jun-2023"
+                }
+        }
+    }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "Indiana Jones and the Dial of Destiny"
+                },
+                "rating": {
+                    "S": "6.8"
+                },
+                "genre": {
+                    "S": "Action"
+                },
+                "release date": {
+                    "S": "30-Jun-2023"
+                }
+        }
+    }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "The Out-Laws"
+                },
+                "rating": {
+                    "S": "5.4"
+                },
+                "genre": {
+                    "S": "Comedy"
+                },
+                "release date": {
+                    "S": "30-Jun-2023"
+                }
+        }
+    }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "Asteroid City"
+                },
+                "rating": {
+                    "S": "6.8"
+                },
+                "genre": {
+                    "S": "Comedy"
+                },
+                "release date": {
+                    "S": "23-May-2023"
+                }
+        }
+    }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "Spider-Man: Across the Spider-Verse"
+                },
+                "rating": {
+                    "S": "8.9"
+                },
+                "genre": {
+                    "S": "Animation"
+                },
+                "release date": {
+                    "S": "02-Jun-2023"
+                }
+        }
+    }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "title": {
+                    "S": "Guardians of the Galaxy: Volume 3"
+                },
+                "rating": {
+                    "S": "8.1"
+                },
+                "genre": {
+                    "S": "Action"
+                },
+                "release date": {
+                    "S": "05-May-2023"
+                }
+        }
+    }
+    }
+    ]
+}
